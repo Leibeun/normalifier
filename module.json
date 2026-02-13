@@ -1,0 +1,11 @@
+{
+    "name": "normalifier",
+    "author": "Leibeun",
+    "description": "Customised normalifier",
+    "options": {
+        "cliName": "Normalifier",
+        "guiName": "<font color='#FF0000'>Normalifier</font>&nbsp;"
+    },
+    "servers": ["https://raw.githubusercontent.com/Leibeun/normalifier/master/"],
+    "disableAutoUpdate": false
+}
